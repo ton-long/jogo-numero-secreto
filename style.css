@@ -48,7 +48,7 @@ p{
 
 .box{
     border: 2px solid var(--primary-color);
-    color: var(--number-color);
+    color: var(--secundary-color);
     display: inline-block;
     font-size: 4rem;
     padding: 0.2em;

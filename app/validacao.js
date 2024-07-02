@@ -1,4 +1,3 @@
-const botao = document.querySelector('#recomecar');
 function verificarOValorDoChute(chute) {
     const numero = +chute;
 
